@@ -1,0 +1,11 @@
+
+.app-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .page-transition {
+    transition: all 0.3s ease;
+  }
+  
